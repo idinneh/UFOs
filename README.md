@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The purpose of this this project is to help Dana in creating a webpage using HTML and Javascript visualize and organize the reported sightings in an interactice manner. To enable users, to access data of reported sigtings in each city or time they choose. We used the CSS to design the page to make it more appealing and enagaging to the users.
+The purpose of this this project is to help Dana in creating a webpage using HTML and Javascript visualize and organize the reported sightings in an interactice manner. To enable users, to access data of reported sightings in each city or time they choose. We used the CSS to design the page to make it more appealing and enagaging to the users.
 
 ## Results
 The first view of the UFO webpage is displayed as below:
